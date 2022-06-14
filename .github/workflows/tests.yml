@@ -2,7 +2,7 @@ name: Tests
 
 on:
   push:
-    branches: [ main ]
+    branches: [ test-grafana-8.5.5 ]
   pull_request:
     branches: [ main ]
 
